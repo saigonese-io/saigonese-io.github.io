@@ -60,9 +60,8 @@ page_sections:
   block: one-column-1
   slug: responsive
   headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
+  content: The Design Blocks can be used without Forestry but to harness the power
+    of Blocks we recommend using Github. Once the site is imported you can immediately
     create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
