@@ -14,7 +14,7 @@ page_sections:
   - link: "#customize"
     link_text: Try
   - link: "#responsive"
-    link_text: Responsive
+    link_text: Donate
   - link: "#blocks"
     link_text: Blocks
   cta:
