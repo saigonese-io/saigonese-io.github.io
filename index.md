@@ -76,6 +76,6 @@ page_sections:
     tool inside the Forestry content manager</p>"
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Made with ❤︎ in Vietnam
 
 ---
