@@ -12,7 +12,7 @@ page_sections:
   - link: "#swap"
     link_text: About
   - link: "#customize"
-    link_text: Customize
+    link_text: Try
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
